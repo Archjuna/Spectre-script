@@ -1,5 +1,5 @@
 # !/bin/sh
-# Script pour vérifier la vulnérabilité du systeme sur les failles spectre et meltdown
+# Script pour vérifier la vulnérabilité du système sur les failles spectre et meltdown.
 # Pour plus d'info aller voir : https://github.com/speed47/spectre-meltdown-checker
 
 if [ -f /bin/wget ]; then
